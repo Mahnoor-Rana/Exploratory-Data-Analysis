@@ -10,7 +10,8 @@ Exploratory data analysis (EDA) is used by data scientists to analyze and invest
 <br>7-Determine optimal factor settings.
 
 
-![image](https://www.researchgate.net/publication/329930775/figure/fig3/AS:873046667710469@1585161954284/The-fundamental-steps-of-the-exploratory-data-analysis-process.png)<br>
+![image](image.png)
+<br>
 ## TECHNIQUES
 The particular graphical techniques employed in EDA are often quite simple, consisting of various techniques of:
 
