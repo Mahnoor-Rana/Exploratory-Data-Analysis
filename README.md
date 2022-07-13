@@ -18,7 +18,7 @@ The particular graphical techniques employed in EDA are often quite simple, cons
 - Plotting simple statistics such as mean plots, standard deviation plots, box plots, and main effects plots of the raw data.
 - Positioning such plots so as to maximize our natural pattern-recognition abilities.
 
-You can see my notebook. Allt he work is explained in detail.
+You can see my notebook. All  the work is explained in detail.
 
 
 
